@@ -13,7 +13,7 @@ Soy un futuro **Ingeniero de Sistemas y Redes** de una doble titulación. Me enc
 - 🔭 Actualmente estudiando cual de todas las lenguas de programación voy a elegir para especializarme.
 - 🌱 Aprendiendo constantemente nuevas herramientas.
 - 💼 Ingeniero de Sistemas y Redes.
-- 📫 Contacto: **jhariramos@gmail.com**
+- 📫 Contacto: **jharidramos@gmail.com**
 
 ## 🛠️ Tecnologías y Herramientas
 
