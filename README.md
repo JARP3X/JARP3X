@@ -39,23 +39,21 @@ Soy un futuro **Ingeniero de Sistemas y Redes** de una doble titulación. Me enc
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=JARP3X&theme=tokyonight&hide_border=true)
 
-</div>>
+</div>
 
 ## 🌐 Formas de contactarme
 
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JARP3X)
-  
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhariramos@gmail.com)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JARP3X&theme=tokyonight&hide_border=true)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jharidramos@gmail.com)
+  [![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jarp3x.github.io)
   
 </div>
 
 ## 💡 Proyectos Destacados
 
-- 🌐 **[JARP3X.github.io](https://jarp3x.github.io)** - Mi pagina web personal(en desarrolo constante)
+- 🌐 **[JARP3X.github.io](https://jarp3x.github.io)** - Mi pagina web personal (en desarrollo constante)
 
 ---
 
